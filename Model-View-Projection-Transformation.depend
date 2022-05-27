@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526386328 source:d:\study\graphics codes\graphicsapimaking1\main.cpp
+	<iostream>
+	<errno.h>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+	<stack>
+	<queue>
+	<cmath>
+
